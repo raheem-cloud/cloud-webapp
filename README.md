@@ -8,7 +8,7 @@ A responsive, production-ready web application built with Python Flask, served t
 - **Region:** `ap-south-1` (Mumbai)
 - **Compute Instance:** `t2.micro` (Ubuntu 24.04 LTS)
 - ### Live Application Preview
-![Live Demo](Screenshot 2026-10-17 131209.png)
+![Live Demo](https://github.com/raheem-cloud/cloud-webapp/blob/main/Screenshot%202026-10-17%20131209.png)
 
 ### Service Status on EC2
 ![Service Status](https://github.com/raheem-cloud/cloud-webapp/blob/main/Screenshot%202026-10-08%20175350.png)
