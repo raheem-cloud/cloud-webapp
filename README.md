@@ -8,7 +8,7 @@ A responsive, production-ready web application built with Python Flask, served t
 - **Region:** `ap-south-1` (Mumbai)
 - **Compute Instance:** `t2.micro` (Ubuntu 24.04 LTS)
 - ### Live Application Preview
-![Live Demo](live-demo.png)
+![Live Demo](Screenshot 2026-10-17 131209.png)
 
 ### Service Status on EC2
 ![Service Status](service-status.png)
