@@ -7,6 +7,11 @@ A responsive, production-ready web application built with Python Flask, served t
 - **Cloud Provider:** Amazon Web Services (AWS)
 - **Region:** `ap-south-1` (Mumbai)
 - **Compute Instance:** `t2.micro` (Ubuntu 24.04 LTS)
+- ### Live Application Preview
+![Live Demo](live-demo.png)
+
+### Service Status on EC2
+![Service Status](service-status.png)
 
 ---
 
