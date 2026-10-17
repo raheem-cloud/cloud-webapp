@@ -11,7 +11,7 @@ A responsive, production-ready web application built with Python Flask, served t
 ![Live Demo](Screenshot 2026-10-17 131209.png)
 
 ### Service Status on EC2
-![Service Status](service-status.png)
+![Service Status](https://github.com/raheem-cloud/cloud-webapp/blob/main/Screenshot%202026-10-08%20175350.png)
 
 ---
 
